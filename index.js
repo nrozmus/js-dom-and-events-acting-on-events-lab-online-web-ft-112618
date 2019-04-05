@@ -36,4 +36,4 @@ function clearEmployeeListOnLinkClick(){
 
 function resetInput(){
   document.querySelector('input').value = ''
-}clearEmployeeListOnLinkClick
+}
